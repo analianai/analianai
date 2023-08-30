@@ -2,9 +2,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/analiaemiliadev/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-a4c639?style=flat-square&labelColor=a4c639&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/)](https://api.whatsapp.com/send?phone=5575988136641&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
 <div>
-  <br>
+  <hr>
  ##🚀 Skill
- <hr>
  <div Sttyle="display: inline_block"> 
    <img align="center" alt="html15" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,7 +14,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="html15" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />   
  </div>
- <br>
+ <hr>
 ##🔧 Tools
   <br>
 <div>
