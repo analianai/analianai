@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Anália! :D 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/analiaemiliadev/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-a4c639?style=flat-square&labelColor=a4c639&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/)](https://api.whatsapp.com/send?phone=5575988136641&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=analianai" alt="Anália Emilia" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=analianai&" alt="analianai" /></p>
 <!--
 **analianai/analianai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
