@@ -6,7 +6,11 @@
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<div>
+<a href="https://github.com/analianai">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=analianai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
  ### 🚀 Skill 
  <div Sttyle="display: inline_block"> 
