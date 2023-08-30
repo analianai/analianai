@@ -2,14 +2,14 @@
 <p>Professora, Designer e Desenvolvedor de software </p>
 
 <hr>
-# 📫Contato
+📫Contato
 <br>
 <div>
 <a href = "mailto:analia.nai@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/analiaemiliadev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   <hr>
- ##🚀 Skill
+🚀 Skill
   <br>
  <div Sttyle="display: inline_block"> 
    <img align="center" alt="html15" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -23,7 +23,7 @@
    <img align="center" alt="html15" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
  </div>
  <hr>
-##🔧 Tools
+🔧 Tools
   <br>
 <div>
    <img align="center" alt="html5" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -33,7 +33,7 @@
    <img align="center" alt="html15" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
   <hr>
-## ⚡ My Stats
+⚡ My Stats
   <br>
 <div>
 <a href="https://github.com/analianai">
