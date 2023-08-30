@@ -2,7 +2,7 @@
 <p>Professora, Designer e Desenvolvedor de software </p>
 
 <hr>
-##📫Contato
+## 📫Contato
 <br>
 <div>
 <a href = "mailto:analia.nai@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
