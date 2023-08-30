@@ -1,5 +1,5 @@
 ### Hi, I'm Anália! :D 
-<p>Professora, Designer e Desenvolvedor de software </p>
+<p>Professora, Designer e Desenvolvedora de software </p>
 
 <hr>
 📫Contato
