@@ -1,5 +1,5 @@
 ### Hi, I'm Anália! :D 
-<p>Trabalho com Tecnologia desde 2010, principalmente na área de automação e robotica</p>
+<p>Professora, Designer e Desenvolvedor de software </p>
 
 <hr>
 ##📫Contato
