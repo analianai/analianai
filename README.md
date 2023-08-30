@@ -1,4 +1,4 @@
-### Hi, I'm Anália! :D 
+### Hi, I'm Anália!
 <p>Professora, Designer e Desenvolvedora de software </p>
 
 <hr>
