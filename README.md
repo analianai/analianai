@@ -1,5 +1,9 @@
 ### Hi, I'm Anália! :D 
+<p>Trabalho com Tecnologia desde 2010, principalmente na área de automação e robotica</p>
 
+<hr>
+##📫Contato
+<br>
 <div>
 <a href = "mailto:analia.nai@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/analiaemiliadev/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -16,6 +20,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="html15" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />   
+   <img align="center" alt="html15" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
  </div>
  <hr>
 ##🔧 Tools
