@@ -2,13 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/analiaemiliadev/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-a4c639?style=flat-square&labelColor=a4c639&logo=whatsapp&logoColor=white&link=https://web.whatsapp.com/)](https://api.whatsapp.com/send?phone=5575988136641&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
 <div>
-##  ⚡ My Stats
-<div>
-<a href="https://github.com/analianai">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=analianai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
  ### 🚀 Skill 
  <div Sttyle="display: inline_block"> 
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,6 +16,16 @@
 
 
  <br>
+
+
+ 
+##  ⚡ My Stats
+<div>
+<a href="https://github.com/analianai">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=analianai&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
 <!--
