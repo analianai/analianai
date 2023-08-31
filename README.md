@@ -1,10 +1,10 @@
-### Hi, I'm Anália!
+## Hi, I'm Anália!
 
-<p>Teacher, Designer and Software Developer</p>
-<p>Professora, Designer e Desenvolvedora de software </p>
+**Teacher, Designer and Software Developer**
+**Professora, Designer e Desenvolvedora de software** 
 
 <hr>
-📫Contato
+# 📫Contato
 <br>
 <div>
 <a href = "mailto:analia.nai@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
