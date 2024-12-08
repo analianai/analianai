@@ -3,36 +3,34 @@
 
 Apaixonada por Tecnologia, Professora, Designer e Desenvolvedora de software 
 
-### Sobre mim
+### Sobre mim <hr>
 
-- Desenvolvedora Web Full Stack e Professora de Programação com mais de 10 anos de experiência, atuando em escolas técnicas e em cursos  específicos de Desenvolvimento.
+Desenvolvedora Web Full Stack e Professora de Programação com mais de 10 anos de experiência, atuando em escolas técnicas e em cursos  específicos de Desenvolvimento.
 
-- Possuo conhecimento em arquiteturas monolíticas e modernas, incluindo DDD e Clean Architecture. 
+Possuo conhecimento em arquiteturas monolíticas e modernas, incluindo DDD e Clean Architecture. 
 
-- Tenho habilidades em .NET Core, Python, kotlin, PHP e desenvolvimento de APIs, Microservices. 
+Tenho habilidades em .NET Core, Python, kotlin, PHP e desenvolvimento de APIs, Microservices. 
 
-- Possuo conhecimento aprofundado em banco de dados
+Possuo conhecimento aprofundado em banco de dados
 
-- Experiência na área de Desenvolvimento Front End (Sites), Back End (C# e .net) e Design 
+Experiência na área de Desenvolvimento Front End (Sites), Back End (C# e .net) e Design 
 (Figma e CorelDraw). 
 
-- Atuação  na  área  de  Docência, com  experiência na  orientação a  aprendizagem do  aluno, 
+Atuação  na  área  de  Docência, com  experiência na  orientação a  aprendizagem do  aluno, 
 participação do planejamento das atividades da escola e organização do processo de ensino, 
 contribuindo com o aprimoramento das rotinas.  
 
-- Ministração de aulas de Informática (Programação) para o ensino Fundamental, Médio, Médio técnico e Pós 
+Ministração de aulas de Informática (Programação) para o ensino Fundamental, Médio, Médio técnico e Pós 
 Médio Técnico, transmitindo os conteúdos em explicações aulas expositivas utilizando analogia 
 com mundo real e aulas práticas. 
 
-- Experiência  na  área  de  Robótica  Educacional,  em  projetos  multidisciplinar  do  ensino 
+Experiência  na  área  de  Robótica  Educacional,  em  projetos  multidisciplinar  do  ensino 
 Fundamental, Médio, Médio técnico e Pós Médio Técnico, com participação na OBR Olimpíada 
 Brasileira de Robótica 2015, 2016, 2017 e 2019.  
 
-Como diz uma frase inspiradora: `A verdadeira grandeza reside na habilidade de tratar todos com igual consideração e respeito.`  
+#### Como diz uma frase inspiradora: `A verdadeira grandeza reside na habilidade de tratar todos com igual consideração e respeito.`  
 
-Portanto, estou sempre em busca de evolução, não apenas no tecnicamente, mas também como indivíduo. Vamos continuar aprendendo e crescendo juntos! 🌟
-
-### Hard Skills
+### Hard Skills <hr>
 
 Back End: 
 
@@ -78,9 +76,8 @@ UX/UI:
 
 ![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=flat&logo=figma&logoColor=F24E1E)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-FFFFFF?style=flat&logo=coreldraw&logoColor=46A609)
-<br><br>
----
-### Soft Skills
+
+### Soft Skills <hr>
 
  - Comunicação
  - Inteligência Emocional
@@ -89,9 +86,8 @@ UX/UI:
  - Gerenciamento de Projetos
  - DevOps (Azure, AWS e Google Cloud)
  - Metodologias Ágeis (Scrum)
-<br><br>
----
-<br>
+
+### Contato <hr>
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FFFFFF?style=flat&logo=gmail&logoColor=EA4335)](mailto:analia.nai@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/analiaemilia/)
@@ -100,11 +96,3 @@ UX/UI:
 [![YouTube](https://img.shields.io/badge/-YouTube-FFFFFF?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@roboticadoamanha)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-FFFFFF?style=flat&logo=whatsapp&logoColor=25D366)
 ](https://api.whatsapp.com/send?phone=5575988136641&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
-<br><hr><br>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=analianai" alt="analianai" /></a> </p>
-<br><hr><br>
-
-<a href="https://github.com/analianai">
-<img loading="lazy" height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&langs_count=7&theme=ligth"/>
-</div>
