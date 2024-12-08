@@ -1,7 +1,7 @@
 
 ## Olá, Eu sou o Anália Emília! :D
 
-Apaixonada por Tecnologia, Professora, Designer e Desenvolvedora de software 
+PDC, apaixonada por Tecnologia, Professora, Designer e Desenvolvedora de software 
 
 ### Sobre mim <hr>
 
