@@ -31,8 +31,6 @@ Brasileira de Robótica 2015, 2016, 2017 e 2019.
 Como diz uma frase inspiradora: `A verdadeira grandeza reside na habilidade de tratar todos com igual consideração e respeito.`  
 
 Portanto, estou sempre em busca de evolução, não apenas no tecnicamente, mas também como indivíduo. Vamos continuar aprendendo e crescendo juntos! 🌟
-<br><br>
----
 
 ### Hard Skills
 
