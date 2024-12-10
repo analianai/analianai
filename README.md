@@ -9,7 +9,7 @@ Desenvolvedora Web Full Stack e Professora de Programação com mais de 10 anos 
 
 Possuo conhecimento em arquiteturas monolíticas e modernas, incluindo DDD e Clean Architecture. 
 
-Tenho habilidades em .NET Core, Python, kotlin, PHP e desenvolvimento de APIs, Microservices. 
+Tenho habilidades em .NET Core, Python, kotlin, PHP e desenvolvimento de APIs e Microservices. 
 
 Possuo conhecimento aprofundado em banco de dados
 
@@ -46,6 +46,7 @@ Front End:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat&logo=typescript&logoColor=3178C6)
 ![Angular](https://img.shields.io/badge/-Angular-FFFFFF?style=flFFFFFFfat&logo=angular&logoColor=DD0031)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=flat&logo=bootstrap&logoColor=7952B3)
+![React](https://img.shields.io/badge/-React-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
 
 Databases:
 
@@ -71,6 +72,7 @@ Mobile:
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-FFFFFF?style=flat&logo=kotlin&logoColor=7F52FF)
 ![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-FFFFFF?style=flat&logo=jetpackcompose&logoColor=4285F4)
+![React Native](https://img.shields.io/badge/-React%20Native-FFFFFF?style=flat&logo=react&logoColor=61DAFB)
 
 UX/UI:
 
