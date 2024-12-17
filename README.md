@@ -29,6 +29,10 @@ Brasileira de Robótica 2015, 2016, 2017 e 2019.
 
 #### Como diz uma frase inspiradora: `A verdadeira grandeza reside na habilidade de tratar todos com igual consideração e respeito.`  
 
+### Linguagens mais utilizadas no repositório: <hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=react)
+
 ### Hard Skills <hr>
 
 Back End: 
@@ -108,6 +112,3 @@ Metodologias Ágeis:
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-FFFFFF?style=flat&logo=whatsapp&logoColor=25D366)
 ](https://api.whatsapp.com/send?phone=5575988136641&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
 
-### Linguagens mais utilizadas no repositório:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=react)
