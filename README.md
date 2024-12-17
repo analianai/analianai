@@ -29,13 +29,6 @@ Brasileira de Robótica 2015, 2016, 2017 e 2019.
 
 #### Como diz uma frase inspiradora: `A verdadeira grandeza reside na habilidade de tratar todos com igual consideração e respeito.`  
 
-#### Linguagens mais utilizadas no repositório <hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=omni)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=yeblu)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=radical)
-
 ### Hard Skills <hr>
 
 Back End: 
@@ -89,6 +82,10 @@ Metodologias Ágeis:
 
 ![Scrum](https://img.shields.io/badge/-Scrum-FFFFFF?style=flat&logo=scrum&logoColor=0052CC)
 ![Kanban](https://img.shields.io/badge/-Kanban-FFFFFF?style=flat&logo=kanban&logoColor=007ACC)
+
+Linguagens mais utilizadas no repositório:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=react)
 
 ### Soft Skills <hr>
 
