@@ -29,6 +29,10 @@ Brasileira de Robótica 2015, 2016, 2017 e 2019.
 
 #### Como diz uma frase inspiradora: `A verdadeira grandeza reside na habilidade de tratar todos com igual consideração e respeito.`  
 
+### Linguagens mais utilizadas no repositório <hr>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default)
+
 ### Hard Skills <hr>
 
 Back End: 
