@@ -31,7 +31,7 @@ Brasileira de Robótica 2015, 2016, 2017 e 2019.
 
 ### Linguagens mais utilizadas no repositório <hr>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&theme=default)
 
 ### Hard Skills <hr>
 
