@@ -83,42 +83,20 @@ Metodologias Ágeis:
 ![Scrum](https://img.shields.io/badge/-Scrum-FFFFFF?style=flat&logo=scrum&logoColor=0052CC)
 ![Kanban](https://img.shields.io/badge/-Kanban-FFFFFF?style=flat&logo=kanban&logoColor=007ACC)
 
-Linguagens mais utilizadas no repositório:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=react)
-
 ### Soft Skills <hr>
 
-1. Comunicação Efetiva
-- Saber explicar ideias técnicas de forma clara, tanto para pessoas técnicas quanto para não técnicas.
-- Habilidade para documentar e compartilhar informações de forma eficaz.
-2. Resolução de Problemas
-- Capacidade de analisar e resolver problemas de maneira criativa e eficiente.
-- Pensamento crítico para identificar a causa raiz de questões complexas.
+1. Comunicação Efetiva (Saber explicar ideias técnicas de forma clara, tanto para pessoas técnicas quanto para não técnicas e habilidade para documentar e compartilhar informações de forma eficaz)
+2. Resolução de Problemas (Capacidade de analisar e resolver problemas de maneira criativa e eficiente e pensamento crítico para identificar a causa raiz de questões complexas)
 3. Trabalho em Equipe
 - Colaboração com outros desenvolvedores, designers e stakeholders.
 - Capacidade de ouvir, dar feedback construtivo e aceitar críticas de forma madura.
-4. Adaptabilidade
-- Estar aberto a mudanças e novas tecnologias.
-- Flexibilidade para ajustar métodos e práticas conforme as necessidades do projeto.
-5. Gestão de Tempo
-- Priorização eficaz de tarefas para cumprir prazos.
-- Capacidade de balancear projetos simultâneos sem comprometer a qualidade.
-6. Empatia
-- Entender as necessidades dos usuários e da equipe.
-- Desenvolver soluções que considerem perspectivas diversas.
-7. Curiosidade e Proatividade
-- Interesse contínuo por aprendizado e desenvolvimento de novas habilidades.
-- Iniciativa para sugerir melhorias no processo ou no produto.
-8. Resiliência
-- Manter-se motivado e positivo diante de desafios e falhas.
-- Saber lidar com pressão e ambientes de alta demanda.
-9. Pensamento Estratégico
-- Alinhamento entre as metas do projeto e as soluções desenvolvidas.
-- Antecipação de problemas futuros e planejamento preventivo.
-10. Ética e Responsabilidade
-- Comprometimento com práticas de código limpo e segurança.
-- Honestidade ao lidar com erros ou dificuldades.
+4. Adaptabilidade (Estar aberto a mudanças e novas tecnologias e flexibilidade para ajustar métodos e práticas conforme as necessidades do projeto)
+5. Gestão de Tempo (Priorização eficaz de tarefas para cumprir prazos e capacidade de balancear projetos simultâneos sem comprometer a qualidade)
+6. Empatia (Entender as necessidades dos usuários e da equipe e desenvolver soluções que considerem perspectivas diversas)
+7. Curiosidade e Proatividade (Interesse contínuo por aprendizado e desenvolvimento de novas habilidades aliado a iniciativa para sugerir melhorias no processo ou no produto)
+8. Resiliência (Manter-se motivado e positivo diante de desafios e falhas e saber lidar com pressão e ambientes de alta demanda)
+9. Pensamento Estratégico (Alinhamento entre as metas do projeto e as soluções desenvolvidas e antecipação de problemas futuros e planejamento preventivo)
+10. Ética e Responsabilidade (Comprometimento com práticas de código limpo e segurança e honestidade ao lidar com erros ou dificuldades)
 
 ### Contato <hr>
 
@@ -129,3 +107,7 @@ Linguagens mais utilizadas no repositório:
 [![YouTube](https://img.shields.io/badge/-YouTube-FFFFFF?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@roboticadoamanha)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-FFFFFF?style=flat&logo=whatsapp&logoColor=25D366)
 ](https://api.whatsapp.com/send?phone=5575988136641&text=Estou%20entrando%20em%20contato,%20pois%20gostei%20muito%20do%20seu%20perfil.%20Podemos%20conversa?)
+
+### Linguagens mais utilizadas no repositório:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analianai&layout=compact&hide=html,css&theme=react)
